@@ -12,6 +12,8 @@ The Elemental Imperium cooperative is a unique financial ecosystem that aims to 
 
 The Elemental Imperium ecosystem is designed to facilitate seamless financial transactions, promote liquidity, and support the growth of its members. By bringing together a diverse range of entities, including family offices, banks, trusts, and investment firms, the cooperative creates a synergistic environment that fosters collaboration, innovation, and mutual success.
 
+![Elemental Imperium Ecosystem Overview](images/elemental_imperium_overview.png)
+
 ### 1.2 Key Entities
 
 The Elemental Imperium ecosystem comprises several core entities that play crucial roles in its operations:
@@ -21,6 +23,8 @@ The Elemental Imperium ecosystem comprises several core entities that play cruci
     3. **TAJ Single Family Trust**: Manages the ecosystem's treasury in collaboration with Wells Fargo, ensuring optimal liquidity and financial stability.
     4. **Aseret Mortgage Bank**: Functions as an interbank partner, supporting liquidity management and currency exchange operations.
     5. **Other Key Members**: Includes entities such as Kore Collective, Wealthspring Investments, WTF Global Family Office, and Ladi International, each contributing unique expertise and resources.
+
+![Key Entities in the Elemental Imperium Ecosystem](images/key_entities.png)
 
 ### 1.3 Scope
 
@@ -496,6 +500,8 @@ The Elemental Imperium ecosystem is committed to maintaining the highest standar
 
 The ecosystem's robust compliance and monitoring framework ensures that it operates with the highest standards of integrity and transparency, building trust and confidence among its members, partners, and regulators.
 
+![Compliance and Monitoring Framework](images/compliance_monitoring.png)
+
 ## 11\. Glossary of Terms and Abbreviations
 
 The Elemental Imperium ecosystem uses a range of technical, financial, and legal terms and abbreviations in its documentation and communications. To ensure clarity and consistency, a comprehensive glossary of these terms and abbreviations is maintained, including:
@@ -521,3 +527,7 @@ The Elemental Imperium ecosystem represents a new paradigm in global finance, le
 This manual provides a comprehensive overview of the ecosystem's structure, roles, financial instruments, and operational processes, serving as a valuable resource for all stakeholders. By adhering to the principles and practices outlined in this manual, the Elemental Imperium ecosystem is well-positioned to achieve its mission of revolutionizing the global financial landscape and creating value for its members, partners, and society as a whole.
 
 As the ecosystem continues to evolve and grow, this manual will be regularly updated to reflect the latest developments and best practices, ensuring that it remains a relevant and reliable guide for all stakeholders. The success of the Elemental Imperium ecosystem depends on the collective efforts and commitment of all its participants, working together towards a shared vision of a more equitable, sustainable, and prosperous future.
+
+![Elemental Imperium Ecosystem Vision](images/elemental_imperium_vision.png)
+
+</rewritten_chunk>
