@@ -529,5 +529,3 @@ This manual provides a comprehensive overview of the ecosystem's structure, role
 As the ecosystem continues to evolve and grow, this manual will be regularly updated to reflect the latest developments and best practices, ensuring that it remains a relevant and reliable guide for all stakeholders. The success of the Elemental Imperium ecosystem depends on the collective efforts and commitment of all its participants, working together towards a shared vision of a more equitable, sustainable, and prosperous future.
 
 ![Elemental Imperium Ecosystem Vision](images/elemental_imperium_vision.png)
-
-</rewritten_chunk>
